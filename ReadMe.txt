@@ -1,1 +1,1 @@
-learning Git
+learning Git from mosh
